@@ -18,3 +18,6 @@ To create a foundational on-chain tracking system that helps users maintain wall
 - Implement portfolio analytics and history logs.
 - Create a Web3 front-end dashboard for user interaction.
 - Enable role-based access and wallet tagging.
+
+contract address: 0x319CA699d3aa2fEFd4382E06FE54D5895Cbc5ccf
+<img width="1915" height="930" alt="image" src="https://github.com/user-attachments/assets/4542d289-86b8-4d50-822a-f22f450dfa9b" />
